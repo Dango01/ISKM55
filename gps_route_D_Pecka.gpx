@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+	<name>D_Pecka_way_home</name>
+	<wpt lat="49.1921482" lon="16.60557479">
+		<ele>232</ele>
+		<name>HOME</name>
+	</wpt>
+	<wpt lat="49.19445846" lon="16.59935206">
+		<ele>270</ele>
+		<name>SPIELBERG</name>
+	</wpt>
+	<wpt lat="49.2002564" lon="16.59849375">
+		<ele>234</ele>
+		<name>SCHOOL</name>
+	</wpt>
+	<trk><name>D_Pecka_way_home</name><number>1</number><trkseg>
+		<trkpt lat="49.2002564" lon="16.59849375"><ele>234</ele><time>2022-09-22T10:14:08Z</time></trkpt>
+		<trkpt lat="49.19980773" lon="16.59894973"><ele>233</ele><time>2022-09-22T10:12:39Z</time></trkpt>
+		<trkpt lat="49.19774661" lon="16.6021657"><ele>232</ele><time>2022-09-22T10:13:12Z</time></trkpt>
+		<trkpt lat="49.19675107" lon="16.60102308"><ele>244</ele><time>2022-09-22T10:13:20Z</time></trkpt>
+		<trkpt lat="49.1960009" lon="16.60251975"><ele>243</ele><time>2022-09-22T10:13:48Z</time></trkpt>
+		<trkpt lat="49.19482654" lon="16.60310715"><ele>246</ele><time>2022-09-22T10:13:48Z</time></trkpt>
+		<trkpt lat="49.19515256" lon="16.6041103"><ele>237</ele><time>2022-09-22T10:13:48Z</time></trkpt>
+		<trkpt lat="49.1921482" lon="16.60557479"><ele>232</ele><time>2022-09-22T10:13:48Z</time></trkpt>
+		<trkpt lat="49.1921482" lon="16.60557479"><ele>232</ele><time>2022-09-22T10:09:57Z</time></trkpt>
+	</trkseg></trk>
+</gpx>
